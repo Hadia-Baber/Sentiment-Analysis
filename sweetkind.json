@@ -1,0 +1,94 @@
+{
+    "color_scheme": {
+        "primary_color": "#f7cfe6",
+        "secondary_color": "#fff0f5",
+        "accent_color": "#ff85a2",
+        "button_hover": "#f0bcd4",
+        "icon_color": "#e75480",
+        "text_color": "#2f2f2f",
+        "placeholder_color": "#b09cab"
+    },
+    "CTk": {
+        "fg_color": [
+            "#fff5fa",
+            "#fff5fa"
+        ]
+    },
+    "CTkLabel": {
+    "fg_color": ["transparent", "transparent"],
+    "text_color": ["#2f2f2f", "#2f2f2f"],
+    "corner_radius": 6
+    },
+
+    "CTkEntry": {
+        "fg_color": [
+            "#fff0f5",
+            "#fff0f5"
+        ],
+        "text_color": [
+            "#2f2f2f",
+            "#2f2f2f"
+        ],
+        "placeholder_text_color": [
+            "#b09cab",
+            "#b09cab"
+        ],
+        "border_color": [
+            "#f7cfe6",
+            "#f7cfe6"
+        ],
+        "corner_radius": 6,
+        "border_width": 1
+    },
+    "CTkTextbox": {
+        "fg_color": [
+            "#fff0f5",
+            "#fff0f5"
+        ],
+        "text_color": [
+            "#2f2f2f",
+            "#2f2f2f"
+        ],
+        "border_color": [
+            "#f7cfe6",
+            "#f7cfe6"
+        ],
+        "corner_radius": 6
+    },
+    "CTkButton": {
+        "fg_color": [
+            "#ffffff",
+            "#7b9a72"
+        ],
+        "hover_color": [
+            "#E5FFF8",
+            "#E5FFF8"
+        ],
+        "text_color": [
+            "#2f2f2f",
+            "#ffffff"
+        ],
+        "corner_radius": 8,
+        "border_width": 0,
+        "border_color": ["#8A2BE2", "#8A2BE2"],
+        "text_color_disabled": ["#a3a3a3", "#a3a3a3"]
+
+
+
+    },
+    "CTkFrame": {
+        "fg_color": [
+            "#fffafc",
+            "#fffafc"
+        ],
+        "border_color": ["#ffffff", "#1a1a1a"],
+        "corner_radius": 10,
+        "border_width": 1
+    },
+    "CTkFont": {
+    "family": "Segoe UI",
+    "size": 13,
+    "weight": "normal"
+}
+
+}
