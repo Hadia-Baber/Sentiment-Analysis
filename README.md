@@ -18,7 +18,8 @@ It features a clean and modern **GUI** for easy use and provides **graph visuali
 - Model training using **Logistic Regression**  
 - **Graphical User Interface (GUI)** for user-friendly predictions (built with customtkinter in Python)  
 - **Graph visualizations** in the form of a bar chart  
-- Evaluation metrics: accuracy, precision, recall, F1-score  
+- Evaluation metrics: accuracy, precision, recall, F1-score
+- Dataset used: https://www.kaggle.com/datasets/kazanova/sentiment140
 
 ---
 
